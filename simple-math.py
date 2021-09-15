@@ -1,3 +1,9 @@
+
+def multiply(a,b):
+    return(a*b)
+
+
+
 i = 0
 
 i = add (i,3)
